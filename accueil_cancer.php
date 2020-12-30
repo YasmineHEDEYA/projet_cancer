@@ -14,13 +14,13 @@
                     <h3><strong> REGISTRE DES CANCERS </strong></h3>
                     <br />
                     <p>
-                        <input class="btn btn-outline-primary " type="submit" name="btnCon" value="AFFICHER TOUT" />
+                        <input class="btn btn-outline-primary " onclick="window.location.href='afficher_tout_cancer.php'" type="submit" name="btnCon" value="AFFICHER TOUT" />
                     </p>
                     <p>
                         <input class="btn btn-outline-primary " onclick="window.location.href='recherche_cancer.php'" type="submit" name="btnAj" value="FAIRE UNE RECHERCHE" />
                     </p>
                     <p>
-                        <input class="btn btn-outline-primary " type="submit" name="btnSup" value="RETOUR" />
+                        <input class="btn btn-outline-primary " onclick="window.location.href='accueil.php'"type="submit" name="btnSup" value="RETOUR" />
                     </p>
                       
                 <br />
