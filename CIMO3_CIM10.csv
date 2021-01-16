@@ -1,0 +1,665 @@
+CUI,CIM10,CODTOPOCIMO3,LIBTOPOCIMO3,GROUPE_TOPO_IACR,CODMORPHOCIMO3,LIBMORPHOCIMO3,GROUPE_MORPHO_IACR
+C0496754,C008,C008,Lésion à localisations contiguës de la lèvre,1,80003,"Tumeur maligne, SAI",17
+C0153346,C006,C006,Commissure des lèvres,1,80003,"Tumeur maligne, SAI",17
+C0432520,C001,C001,Face externe de la lèvre inférieure,1,80003,"Tumeur maligne, SAI",17
+C0546836,C002,C002,Face externe de la lèvre SAI,1,80003,"Tumeur maligne, SAI",17
+C0474971,C005,C005,Muqueuse de la lèvre SAI,1,80003,"Tumeur maligne, SAI",17
+C0432579,C003,C003,Muqueuse de la lèvre supérieure,1,80003,"Tumeur maligne, SAI",17
+C0153340,C00,C009,Lèvre SAI (à l'exclusion de la peau de la lèvre),1,80003,"Tumeur maligne, SAI",17
+C0153340,C009,C009,Lèvre SAI (à l'exclusion de la peau de la lèvre),1,80003,"Tumeur maligne, SAI",17
+C0474962,C000,C000,Face externe de la lèvre supérieure,1,80003,"Tumeur maligne, SAI",17
+C0154058,NA,C000,Face externe de la lèvre supérieure,1,80102,"Carcinome in situ, SAI",5
+C0733940,C004,C004,Muqueuse de la lèvre inférieure,1,80003,"Tumeur maligne, SAI",17
+C0153350,C01,C019,Base de la langue SAI,2,80003,"Tumeur maligne, SAI",17
+C0684333,C022,C022,Face ventrale de la langue SAI,2,80003,"Tumeur maligne, SAI",17
+C0496755,C021,C021,Bord de la langue,2,80003,"Tumeur maligne, SAI",17
+C0153349,C029,C029,Langue SAI,2,80003,"Tumeur maligne, SAI",17
+C0153351,C020,C020,Face dorsale de la langue SAI,2,80003,"Tumeur maligne, SAI",17
+C0153356,C024,C024,Amygdale linguale,2,80003,"Tumeur maligne, SAI",17
+C0496756,C028,C028,Lésion à localisations contiguës de la langue,2,80003,"Tumeur maligne, SAI",17
+C0153354,C023,C023,Deux tiers antérieurs de la langue SAI,2,80003,"Tumeur maligne, SAI",17
+C0153364,C03,C039,Gencive SAI,1,80003,"Tumeur maligne, SAI",17
+C0153364,C039,C039,Gencive SAI,1,80003,"Tumeur maligne, SAI",17
+C0432581,C031,C031,Gencive inférieure,1,80003,"Tumeur maligne, SAI",17
+C0153365,C030,C030,Gencive supérieure,1,80003,"Tumeur maligne, SAI",17
+C0153368,C04,C049,Plancher de la bouche SAI,1,80003,"Tumeur maligne, SAI",17
+C0153368,C049,C049,Plancher de la bouche SAI,1,80003,"Tumeur maligne, SAI",17
+C0496758,C041,C041,Plancher latéral de la bouche,1,80003,"Tumeur maligne, SAI",17
+C0153369,C040,C040,Plancher antérieur de la bouche,1,80003,"Tumeur maligne, SAI",17
+C0349046,C048,C048,Lésion à localisations contiguës du plancher de la bouche,1,80003,"Tumeur maligne, SAI",17
+C0496760,C058,C058,Lésion à localisations contiguës du palais,1,80003,"Tumeur maligne, SAI",17
+C0153376,C051,C051,Palais mou SAI (à l'exclusion de la face nasopharyngée du palais mou),1,80003,"Tumeur maligne, SAI",17
+C0153377,C052,C052,Luette,1,80003,"Tumeur maligne, SAI",17
+C0153375,C050,C050,Palais dur,1,80003,"Tumeur maligne, SAI",17
+C0153378,C05,C059,Palais SAI,1,80003,"Tumeur maligne, SAI",17
+C0153378,C059,C059,Palais SAI,1,80003,"Tumeur maligne, SAI",17
+C0153562,C462,C059,Palais SAI,1,91403,Sarcome de Kaposi,15
+C0153381,C069,C069,Bouche SAI,1,80003,"Tumeur maligne, SAI",17
+C0496761,C068,C068,Lésion à localisations contiguës de la bouche,1,80003,"Tumeur maligne, SAI",17
+C0153379,C062,C062,Région rétromolaire,1,80003,"Tumeur maligne, SAI",17
+C0153374,C061,C061,Vestibule de la bouche,1,80003,"Tumeur maligne, SAI",17
+C0153373,C060,C060,Muqueuse de la joue,1,80003,"Tumeur maligne, SAI",17
+C0747273,C07,C079,Glande parotide,3,80003,"Tumeur maligne, SAI",17
+C0496763,C089,C089,Glande salivaire principale SAI,4,80003,"Tumeur maligne, SAI",17
+C0349047,C088,C088,Lésion à localisations contiguës des glandes salivaires principales,4,80003,"Tumeur maligne, SAI",17
+C0153361,C081,C081,Glande sub-linguale,4,80003,"Tumeur maligne, SAI",17
+C0153360,C080,C080,Glande sous-maxillaire,4,80003,"Tumeur maligne, SAI",17
+C0751560,C09,C099,Amygdale SAI (à l'exclusion de l'amygdale linguale et de l'amygdale pharyngée),5,80003,"Tumeur maligne, SAI",17
+C0751560,C099,C099,Amygdale SAI (à l'exclusion de l'amygdale linguale et de l'amygdale pharyngée),5,80003,"Tumeur maligne, SAI",17
+C1264197,C098,C098,Lésion à localisations contiguës de l'amygdale,5,80003,"Tumeur maligne, SAI",17
+C0153385,C091,C091,Pilier de l'amygdale,5,80003,"Tumeur maligne, SAI",17
+C0153384,C090,C090,Loge amygdalienne,5,80003,"Tumeur maligne, SAI",17
+C0153382,C10,C109,Oropharynx SAI,5,80003,"Tumeur maligne, SAI",17
+C0153382,C109,C109,Oropharynx SAI,5,80003,"Tumeur maligne, SAI",17
+C0496767,C108,C108,Lésion à localisations contiguës de l'oropharynx,5,80003,"Tumeur maligne, SAI",17
+C0496766,C104,C104,Fente branchiale (en tant que localisation néoplasique),5,80003,"Tumeur maligne, SAI",17
+C0153390,C103,C103,Paroi postérieure de l'oropharynx,5,80003,"Tumeur maligne, SAI",17
+C0153389,C102,C102,Paroi latérale de l'oropharynx,5,80003,"Tumeur maligne, SAI",17
+C0496765,C101,C101,Face antérieure de l'épiglotte,5,80003,"Tumeur maligne, SAI",17
+C0153386,C100,C100,Vallécule,5,80003,"Tumeur maligne, SAI",17
+C0153392,C11,C119,Nasopharynx SAI,6,80003,"Tumeur maligne, SAI",17
+C0153392,C119,C119,Nasopharynx SAI,6,80003,"Tumeur maligne, SAI",17
+C0349038,C118,C118,Lésion à localisations contiguës du nasopharynx,6,80003,"Tumeur maligne, SAI",17
+C0153396,C113,C113,Paroi antérieure du nasopharynx,6,80003,"Tumeur maligne, SAI",17
+C0153395,C112,C112,Paroi latérale du nasopharynx,6,80003,"Tumeur maligne, SAI",17
+C0153394,C111,C111,Paroi postérieure du nasopharynx,6,80003,"Tumeur maligne, SAI",17
+C0153393,C110,C110,Paroi supérieure du nasopharynx,6,80003,"Tumeur maligne, SAI",17
+C0153400,C12,C129,Sinus piriforme,5,80003,"Tumeur maligne, SAI",17
+C0153398,C13,C139,Hypopharynx SAI,5,80003,"Tumeur maligne, SAI",17
+C0153398,C139,C139,Hypopharynx SAI,5,80003,"Tumeur maligne, SAI",17
+C0496770,C132,C132,Paroi postérieure de l'hypopharynx,5,80003,"Tumeur maligne, SAI",17
+C0349039,C138,C138,Lésion à localisations contiguës de,5,80003,"Tumeur maligne, SAI",17
+C0496769,C130,C130,Région rétrocricoïdienne,5,80003,"Tumeur maligne, SAI",17
+C0153401,C131,C131,Face hypopharyngée du repli ary-épiglottique,5,80003,"Tumeur maligne, SAI",17
+C0153405,C140,C140,Pharynx SAI,5,80003,"Tumeur maligne, SAI",17
+C0496772,C148,C148,"Lésion à localisations contiguës de la lèvre, de la cavité buccale et du pharynx",5,80003,"Tumeur maligne, SAI",17
+C0153406,C142,C142,Anneau de Waldeyer,5,80003,"Tumeur maligne, SAI",17
+C0153414,C154,C154,Tiers moyen de l'œsophage,7,80003,"Tumeur maligne, SAI",17
+C0496775,C152,C152,Œsophage abdominal,7,80003,"Tumeur maligne, SAI",17
+C0153415,C155,C155,Tiers inférieur de l'œsophage,7,80003,"Tumeur maligne, SAI",17
+C0153411,C151,C151,Œsophage thoracique,7,80003,"Tumeur maligne, SAI",17
+C0153413,C153,C153,Tiers supérieur de l'œsophage,7,80003,"Tumeur maligne, SAI",17
+C0496773,C150,C150,Œsophage cervical,7,80003,"Tumeur maligne, SAI",17
+C0546837,C15,C159,Œsophage SAI,7,80003,"Tumeur maligne, SAI",17
+C0546837,C159,C159,Œsophage SAI,7,80003,"Tumeur maligne, SAI",17
+C0154059,NA,C159,Œsophage SAI,7,80102,"Carcinome in situ, SAI",5
+C0496776,C158,C158,Lésion à localisations contiguës de l'œsophage,7,80003,"Tumeur maligne, SAI",17
+C0024623,C16,C169,Estomac SAI,8,80003,"Tumeur maligne, SAI",17
+C0024623,C169,C169,Estomac SAI,8,80003,"Tumeur maligne, SAI",17
+C0154060,NA,C169,Estomac SAI,8,80102,"Carcinome in situ, SAI",5
+C0496905,NA,C169,Estomac SAI,8,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0349049,C168,C168,Lésion à localisations contiguës de l'estomac,8,80003,"Tumeur maligne, SAI",17
+C0153423,C166,C166,Grande courbure de l'estomac SAI (non classable de C16.0 à C16.4),8,80003,"Tumeur maligne, SAI",17
+C0153422,C165,C165,Petite courbure de l'estomac SAI (non classable de C16.1 à C16.4),8,80003,"Tumeur maligne, SAI",17
+C0153418,C164,C164,Pylore,8,80003,"Tumeur maligne, SAI",17
+C0153419,C163,C163,Antre gastrique,8,80003,"Tumeur maligne, SAI",17
+C0153421,C162,C162,Corps de l'estomac,8,80003,"Tumeur maligne, SAI",17
+C0153420,C161,C161,Fundus de l'estomac,8,80003,"Tumeur maligne, SAI",17
+C0153417,C160,C160,Cardia SAI,8,80003,"Tumeur maligne, SAI",17
+C0349050,C178,C178,Lésion à localisations contiguës de l 'intestin grêle,9,80003,"Tumeur maligne, SAI",17
+C0153429,C173,C173,Diverticule de Meckel (en tant que localisation d'un néoplasme),9,80003,"Tumeur maligne, SAI",17
+C0153428,C172,C172,Iléon (à l'exclusion de la valvule iléocaecale),9,80003,"Tumeur maligne, SAI",17
+C0153427,C171,C171,Jéjunum,9,80003,"Tumeur maligne, SAI",17
+C0153426,C170,C170,Duodénum,9,80003,"Tumeur maligne, SAI",17
+C0153425,C17,C179,Intestin grêle SAI,9,80003,"Tumeur maligne, SAI",17
+C0153425,C179,C179,Intestin grêle SAI,9,80003,"Tumeur maligne, SAI",17
+C0346627,C260,C179,Intestin grêle SAI,9,80003,"Tumeur maligne, SAI",17
+C0494164,C784,C179,Intestin grêle SAI,9,80006,Tumeur métastatique,17
+C0154065,NA,C179,Intestin grêle SAI,9,80102,"Carcinome in situ, SAI",5
+C0496906,NA,C179,Intestin grêle SAI,9,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0153439,C182,C182,Côlon ascendant,10,80003,"Tumeur maligne, SAI",17
+C0496779,C181,C181,Appendice,10,80003,"Tumeur maligne, SAI",17
+C0348899,NA,C181,Appendice,10,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0153437,C180,C180,Caecum,10,80003,"Tumeur maligne, SAI",17
+C0007102,C18,C189,Côlon SAI,10,80003,"Tumeur maligne, SAI",17
+C0007102,C189,C189,Côlon SAI,10,80003,"Tumeur maligne, SAI",17
+C0154061,NA,C189,Côlon SAI,10,80102,"Carcinome in situ, SAI",5
+C0496907,NA,C189,Côlon SAI,10,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0153435,C186,C186,Côlon descendant,10,80003,"Tumeur maligne, SAI",17
+C0349051,C188,C188,Lésion à localisations contiguës du côlon,10,80003,"Tumeur maligne, SAI",17
+C0153440,C185,C185,Angle splénique du côlon,10,80003,"Tumeur maligne, SAI",17
+C0153434,C184,C184,Côlon transverse,10,80003,"Tumeur maligne, SAI",17
+C0153436,C187,C187,Côlon sigmoïde,10,80003,"Tumeur maligne, SAI",17
+C0153433,C183,C183,Angle hépatique du côlon,10,80003,"Tumeur maligne, SAI",17
+C0153443,C19,C199,Jonction recto-sigmoïdienne,11,80003,"Tumeur maligne, SAI",17
+C0345875,NA,C199,Jonction recto-sigmoïdienne,11,80102,"Carcinome in situ, SAI",5
+C0949022,C20,C209,Rectum SAI,11,80003,"Tumeur maligne, SAI",17
+C0154062,NA,C209,Rectum SAI,11,80102,"Carcinome in situ, SAI",5
+C0496908,NA,C209,Rectum SAI,11,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0153445,C211,C211,Canal anal,12,80003,"Tumeur maligne, SAI",17
+C0153446,C210,C210,"Anus SAI (à l'exclusion de la peau de l'anus, péri-anale et de la marge anale  C44.5)",12,80003,"Tumeur maligne, SAI",17
+C0496853,NA,C210,"Anus SAI (à l'exclusion de la peau de l'anus, péri-anale et de la marge anale  C44.5)",12,80102,"Carcinome in situ, SAI",5
+C0496781,C218,C218,"Lésion à localisations contiguës du rectum, de l'anus et du canal anal",12,80003,"Tumeur maligne, SAI",17
+C0345886,C212,C212,Zone cloacale,12,80003,"Tumeur maligne, SAI",17
+C0345905,C221,C221,Voies biliaires intrahépatiques,13,80003,"Tumeur maligne, SAI",17
+C2239176,C220,C220,Foie,13,80003,"Tumeur maligne, SAI",17
+C0206624,C222,C220,Foie,13,89703,Hépatoblastome (C22.0),16
+C0345907,C223,C220,Foie,13,91203,Hémangiosarcome,6
+C0348339,C224,C220,Foie,13,88003,"Sarcome, SAI",6
+C0348340,C227,C220,Foie,13,80103,"Carcinome, SAI",5
+C0345904,C229,C220,Foie,13,80003,"Tumeur maligne, SAI",17
+C0494165,C787,C220,Foie,13,80006,Tumeur métastatique,17
+C0153452,C23,C239,Vésicule biliaire,14,80003,"Tumeur maligne, SAI",17
+C0750952,C249,C249,Voies biliaires SAI,14,80003,"Tumeur maligne, SAI",17
+C0349052,C248,C248,Lésion à localisations contiguës des voies biliaires,14,80003,"Tumeur maligne, SAI",17
+C0153454,C241,C241,Ampoule de Vater,14,80003,"Tumeur maligne, SAI",17
+C0153453,C240,C240,Voies biliaires extra-hépatiques,14,80003,"Tumeur maligne, SAI",17
+C0346647,C25,C259,Pancréas SAI,15,80003,"Tumeur maligne, SAI",17
+C0346647,C259,C259,Pancréas SAI,15,80003,"Tumeur maligne, SAI",17
+C0496785,C257,C257,Autres localisations spécifiées du pancréas,15,80003,"Tumeur maligne, SAI",17
+C0496784,C254,C254,Ilôts de Langerhans,15,80003,"Tumeur maligne, SAI",17
+C0153461,C253,C253,Canal pancréatique,15,80003,"Tumeur maligne, SAI",17
+C0349053,C258,C258,Lésion à localisations contiguës du pancréas,15,80003,"Tumeur maligne, SAI",17
+C0153460,C252,C252,Queue du pancréas,15,80003,"Tumeur maligne, SAI",17
+C0153459,C251,C251,Corps du pancréas,15,80003,"Tumeur maligne, SAI",17
+C0153458,C250,C250,Tête du pancréas,15,80003,"Tumeur maligne, SAI",17
+C0349027,C268,C268,Lésion à localisations contiguës de l'appareil digestif,16,80003,"Tumeur maligne, SAI",17
+C0153681,C785,C260,Tractus intestinal SAI,16,80006,Tumeur métastatique,17
+C0348384,C788,C260,Tractus intestinal SAI,16,80006,Tumeur métastatique,17
+C0496788,C301,C301,Oreille moyenne,17,80003,"Tumeur maligne, SAI",17
+C0728864,C300,C300,Fosse nasale (à l'exclusion du nez SAI C76.0),17,80003,"Tumeur maligne, SAI",17
+C0153474,C31,C319,Sinus annexe SAI,18,80003,"Tumeur maligne, SAI",17
+C0153474,C319,C319,Sinus annexe SAI,18,80003,"Tumeur maligne, SAI",17
+C0349041,C318,C318,Lésion à localisations contiguës des sinus accessoires,18,80003,"Tumeur maligne, SAI",17
+C0153479,C313,C313,Sinus sphénoïdal,18,80003,"Tumeur maligne, SAI",17
+C0153478,C312,C312,Sinus frontal,18,80003,"Tumeur maligne, SAI",17
+C0153477,C311,C311,Sinus ethmoïdal,18,80003,"Tumeur maligne, SAI",17
+C0153476,C310,C310,Sinus maxillaire,18,80003,"Tumeur maligne, SAI",17
+C0007107,C32,C329,Larynx SAI,19,80003,"Tumeur maligne, SAI",17
+C0007107,C329,C329,Larynx SAI,19,80003,"Tumeur maligne, SAI",17
+C0154069,NA,C329,Larynx SAI,19,80102,"Carcinome in situ, SAI",5
+C0496912,NA,C329,Larynx SAI,19,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0349040,C328,C328,Lésion à localisations contiguës du larynx,19,80003,"Tumeur maligne, SAI",17
+C0153486,C323,C323,Cartilage laryngé,19,80003,"Tumeur maligne, SAI",17
+C0153485,C322,C322,Étage sous-glottique,19,80003,"Tumeur maligne, SAI",17
+C0153484,C321,C321,Étage sus-glottique,19,80003,"Tumeur maligne, SAI",17
+C0153483,C320,C320,Glotte,19,80003,"Tumeur maligne, SAI",17
+C0153489,C33,C339,Trachée,20,80003,"Tumeur maligne, SAI",17
+C0154070,NA,C339,Trachée,20,80102,"Carcinome in situ, SAI",5
+C0348343,C34,C349,Poumon SAI,20,80003,"Tumeur maligne, SAI",17
+C0348343,C349,C349,Poumon SAI,20,80003,"Tumeur maligne, SAI",17
+C0348364,C467,C349,Poumon SAI,20,91403,Sarcome de Kaposi,15
+C0153676,C780,C349,Poumon SAI,20,80006,Tumeur métastatique,17
+C0154071,NA,C349,Poumon SAI,20,80102,"Carcinome in situ, SAI",5
+C0349043,C348,C348,Lésion à localisations contiguës du poumon,20,80003,"Tumeur maligne, SAI",17
+C0153492,C343,C343,Lobe inférieur du poumon,20,80003,"Tumeur maligne, SAI",17
+C0153491,C342,C342,Lobe moyen du poumon,20,80003,"Tumeur maligne, SAI",17
+C0024624,C341,C341,Lobe supérieur du poumon,20,80003,"Tumeur maligne, SAI",17
+C0153490,C340,C340,Bronche souche,20,80003,"Tumeur maligne, SAI",17
+C0751552,C37,C379,Thymus,21,80003,"Tumeur maligne, SAI",17
+C0496916,NA,C379,Thymus,21,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0349042,C388,C388,"Lésion à localisations contiguës du cœur, du",22,80003,"Tumeur maligne, SAI",17
+C0153494,C384,C384,Plèvre SAI,22,80003,"Tumeur maligne, SAI",17
+C0812413,C450,C384,Plèvre SAI,22,90503,Mésothéliome malin,7
+C0153678,C782,C384,Plèvre SAI,22,80006,Tumeur métastatique,17
+C0496914,NA,C384,Plèvre SAI,22,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0153504,C383,C383,Médiastin SAI,22,80003,"Tumeur maligne, SAI",17
+C0153677,C781,C383,Médiastin SAI,22,80006,Tumeur métastatique,17
+C0496915,NA,C383,Médiastin SAI,22,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0153502,C382,C382,Médiastin postérieur,22,80003,"Tumeur maligne, SAI",17
+C0153501,C381,C381,Médiastin antérieur,22,80003,"Tumeur maligne, SAI",17
+C0153500,C380,C380,Coeur,22,80003,"Tumeur maligne, SAI",17
+C0346110,C452,C380,Coeur,22,90503,Mésothéliome malin,7
+C0153506,C390,C390,Voies respiratoires supérieures SAI,23,80003,"Tumeur maligne, SAI",17
+C0153508,C399,C399,Localisations mal définies de l'appareil respiratoire,23,80003,"Tumeur maligne, SAI",17
+C0348383,C783,C399,Localisations mal définies de l'appareil respiratoire,23,80006,Tumeur métastatique,17
+C0348401,NA,C399,Localisations mal définies de l'appareil respiratoire,23,80102,"Carcinome in situ, SAI",5
+C0348402,NA,C399,Localisations mal définies de l'appareil respiratoire,23,80102,"Carcinome in situ, SAI",5
+C0154103,NA,C399,Localisations mal définies de l'appareil respiratoire,23,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0496917,NA,C399,Localisations mal définies de l'appareil respiratoire,23,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0496918,NA,C399,Localisations mal définies de l'appareil respiratoire,23,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0349044,C398,C398,Lésion à localisations contiguës de l'appareil respiratoire,23,80003,"Tumeur maligne, SAI",17
+C0153514,C400,C400,"Os longs du membre supérieur, omoplate et articulations",24,80003,"Tumeur maligne, SAI",17
+C0348347,C409,C409,Os d’un membre SAI,24,80003,"Tumeur maligne, SAI",17
+C0348346,C408,C408,"Lésion à localisations contiguës des os, des articulations et des cartilages articulaires des membres inférieurs",24,80003,"Tumeur maligne, SAI",17
+C0153518,C403,C403,Os courts du membre inférieur et articulations,24,80003,"Tumeur maligne, SAI",17
+C0153517,C402,C402,Os longs du membre inférieur et articulations,24,80003,"Tumeur maligne, SAI",17
+C0153515,C401,C401,Os courts du membre supérieur et articulations,24,80003,"Tumeur maligne, SAI",17
+C0348348,C418,C418,"Lésion à localisations contiguës des os, des articulations et du cartilage articulaire",24,80003,"Tumeur maligne, SAI",17
+C0153513,C413,C413,"Côte, sternum, clavicule et articulations",24,80003,"Tumeur maligne, SAI",17
+C0153509,C40-C419,C419,Os SAI,24,80003,"Tumeur maligne, SAI",17
+C0153509,C419,C419,Os SAI,24,80003,"Tumeur maligne, SAI",17
+C0153690,C795,C419,Os SAI,24,80006,Tumeur métastatique,17
+C0027630,D480,C419,Os SAI,24,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0346667,C412,C412,Colonne vertébrale (à l'exclusion du sacrum et coccyx),24,80003,"Tumeur maligne, SAI",17
+C0153516,C414,C414,"Os du bassin, sacrum, coccyx et cartilage articulaire",24,80003,"Tumeur maligne, SAI",17
+C0346653,C410,C410,"Os du crâne, de la face et articulations",24,80003,"Tumeur maligne, SAI",17
+C0153511,C411,C411,Mandibule,24,80003,"Tumeur maligne, SAI",17
+C0348392,C967,C424,Système hématopoïétique SAI,25,80003,"Tumeur maligne, SAI",17
+C0348393,C81-C969,C424,Système hématopoïétique SAI,25,80003,"Tumeur maligne, SAI",17
+C0348393,C969,C424,Système hématopoïétique SAI,25,80003,"Tumeur maligne, SAI",17
+C0494213,NA,C424,Système hématopoïétique SAI,25,80003,"Tumeur maligne, SAI",17
+C0494214,NA,C424,Système hématopoïétique SAI,25,80003,"Tumeur maligne, SAI",17
+C0153470,C261,C422,Rate,25,80003,"Tumeur maligne, SAI",17
+C0348342,C269,C422,Rate,25,80003,"Tumeur maligne, SAI",17
+C0151779,C43,C449,"Peau SAI (à l'exclusion de la peau de la vulve, des grandes lèvres, du pénis, du scrotum)",26,87203,"Mélanome malin, SAI (à l’exception du mélanome juvénile M-8770/0)",16
+C0151779,C439,C449,"Peau SAI (à l'exclusion de la peau de la vulve, des grandes lèvres, du pénis, du scrotum)",26,87203,"Mélanome malin, SAI (à l’exception du mélanome juvénile M-8770/0)",16
+C0007114,C449,C449,"Peau SAI (à l'exclusion de la peau de la vulve, des grandes lèvres, du pénis, du scrotum)",26,80003,"Tumeur maligne, SAI",17
+C0153560,C460,C449,"Peau SAI (à l'exclusion de la peau de la vulve, des grandes lèvres, du pénis, du scrotum)",26,91403,Sarcome de Kaposi,15
+C0153687,C792,C449,"Peau SAI (à l'exclusion de la peau de la vulve, des grandes lèvres, du pénis, du scrotum)",26,80006,Tumeur métastatique,17
+C0348404,NA,C449,"Peau SAI (à l'exclusion de la peau de la vulve, des grandes lèvres, du pénis, du scrotum)",26,87202,Mélanome in situ,16
+C0346040,NA,C449,"Peau SAI (à l'exclusion de la peau de la vulve, des grandes lèvres, du pénis, du scrotum)",26,87202,Mélanome in situ,16
+C0348405,NA,C449,"Peau SAI (à l'exclusion de la peau de la vulve, des grandes lèvres, du pénis, du scrotum)",26,80102,"Carcinome in situ, SAI",5
+C0154073,NA,C449,"Peau SAI (à l'exclusion de la peau de la vulve, des grandes lèvres, du pénis, du scrotum)",26,80102,"Carcinome in situ, SAI",5
+C0496955,D485,C449,"Peau SAI (à l'exclusion de la peau de la vulve, des grandes lèvres, du pénis, du scrotum)",26,80001,Tumeur de bénignité ou de malignité non assurée,17
+C1112532,C437,C447,Peau de la hanche et du membre inférieur,26,87203,"Mélanome malin, SAI (à l’exception du mélanome juvénile M-8770/0)",16
+C0496799,C447,C447,Peau de la hanche et du membre inférieur,26,80003,"Tumeur maligne, SAI",17
+C0349034,NA,C447,Peau de la hanche et du membre inférieur,26,87202,Mélanome in situ,16
+C0154081,NA,C447,Peau de la hanche et du membre inférieur,26,80102,"Carcinome in situ, SAI",5
+C1112533,C436,C446,Peau de l'épaule et du membre supérieur,26,87203,"Mélanome malin, SAI (à l’exception du mélanome juvénile M-8770/0)",16
+C0496798,C446,C446,Peau de l'épaule et du membre supérieur,26,80003,"Tumeur maligne, SAI",17
+C0349033,NA,C446,Peau de l'épaule et du membre supérieur,26,87202,Mélanome in situ,16
+C0154080,NA,C446,Peau de l'épaule et du membre supérieur,26,80102,"Carcinome in situ, SAI",5
+C1305887,C435,C445,Peau du tronc,26,80003,"Tumeur maligne, SAI",17
+C0496797,C445,C445,Peau du tronc,26,80003,"Tumeur maligne, SAI",17
+C0349032,NA,C445,Peau du tronc,26,87202,Mélanome in situ,16
+C0347161,NA,C445,Peau du tronc,26,80102,"Carcinome in situ, SAI",5
+C0349354,C438,C448,Lésion à localisations contiguës de la peau,26,87203,"Mélanome malin, SAI (à l’exception du mélanome juvénile M-8770/0)",16
+C0348363,C448,C448,Lésion à localisations contiguës de la peau,26,80003,"Tumeur maligne, SAI",17
+C0348350,C433,C443,Peau des autres régions et des régions non précisées de la face,26,87203,"Mélanome malin, SAI (à l’exception du mélanome juvénile M-8770/0)",16
+C0346729,C443,C443,Peau des autres régions et des régions non précisées de la face,26,80003,"Tumeur maligne, SAI",17
+C0348403,NA,C443,Peau des autres régions et des régions non précisées de la face,26,87202,Mélanome in situ,16
+C0154077,NA,C443,Peau des autres régions et des régions non précisées de la face,26,80102,"Carcinome in situ, SAI",5
+C0346773,C432,C442,Oreille externe,26,87203,"Mélanome malin, SAI (à l’exception du mélanome juvénile M-8770/0)",16
+C0346726,C442,C442,Oreille externe,26,80003,"Tumeur maligne, SAI",17
+C0349030,NA,C442,Oreille externe,26,87202,Mélanome in situ,16
+C0347139,NA,C442,Oreille externe,26,80102,"Carcinome in situ, SAI",5
+C0339116,C431,C441,Paupière SAI,26,87203,"Mélanome malin, SAI (à l’exception du mélanome juvénile M-8770/0)",16
+C0496796,C441,C441,Paupière SAI,26,80003,"Tumeur maligne, SAI",17
+C0349029,NA,C441,Paupière SAI,26,87202,Mélanome in situ,16
+C0347138,NA,C441,Paupière SAI,26,80102,"Carcinome in situ, SAI",5
+C0346782,C434,C444,Peau du crâne et du cou,26,87203,"Mélanome malin, SAI (à l’exception du mélanome juvénile M-8770/0)",16
+C0346736,C444,C444,Peau du crâne et du cou,26,80003,"Tumeur maligne, SAI",17
+C0349031,NA,C444,Peau du crâne et du cou,26,87202,Mélanome in situ,16
+C0154078,NA,C444,Peau du crâne et du cou,26,80102,"Carcinome in situ, SAI",5
+C0153529,C430,C440,Peau de la lèvre SAI,26,87203,"Mélanome malin, SAI (à l’exception du mélanome juvénile M-8770/0)",16
+C0346724,C440,C440,Peau de la lèvre SAI,26,80003,"Tumeur maligne, SAI",17
+C0349028,NA,C440,Peau de la lèvre SAI,26,87202,Mélanome in situ,16
+C0154074,NA,C440,Peau de la lèvre SAI,26,80102,"Carcinome in situ, SAI",5
+C0349019,C470,C470,"Nerfs périphériques et  système nerveux autonome de la tête, de la face et du cou",27,80003,"Tumeur maligne, SAI",17
+C0348358,C478,C478,Lésion à localisations contiguës des nerfs périphériques et du système nerveux autonome,27,80003,"Tumeur maligne, SAI",17
+C0348357,C476,C476,Nerfs périphériques et  système nerveux autonome du tronc,27,80003,"Tumeur maligne, SAI",17
+C0349024,C475,C475,Nerfs périphériques et  système nerveux autonome du pelvis,27,80003,"Tumeur maligne, SAI",17
+C0348359,C47,C479,Système nerveux autonome SAI,27,80003,"Tumeur maligne, SAI",17
+C0348359,C479,C479,Système nerveux autonome SAI,27,80003,"Tumeur maligne, SAI",17
+C0349025,D482,C479,Système nerveux autonome SAI,27,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0349023,C474,C474,Nerfs périphériques et  système nerveux autonome du thorax,27,80003,"Tumeur maligne, SAI",17
+C0349022,C473,C473,Nerfs périphériques et  système nerveux autonome du thorax,27,80003,"Tumeur maligne, SAI",17
+C0349021,C472,C472,Nerfs périphériques et  système nerveux autonome du membre inférieur et de la hanche,27,80003,"Tumeur maligne, SAI",17
+C0349020,C471,C471,Nerfs périphériques et  système nerveux autonome du membre supérieur et de l'épaule,27,80003,"Tumeur maligne, SAI",17
+C0582499,C488,C488,Lésion à localisations contiguës du rétropéritoine et du péritoine,28,80003,"Tumeur maligne, SAI",17
+C0036528,C786,C488,Lésion à localisations contiguës du rétropéritoine et du péritoine,28,80006,Tumeur métastatique,17
+C0346109,C451,C482,Péritoine SAI,28,90503,Mésothéliome malin,7
+C0153467,C482,C482,Péritoine SAI,28,80003,"Tumeur maligne, SAI",17
+C0496954,D484,C482,Péritoine SAI,28,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0153466,C481,C481,Régions spécifiées du péritoine,28,80003,"Tumeur maligne, SAI",17
+C0153465,C480,C480,Rétropéritoine,28,80003,"Tumeur maligne, SAI",17
+C0496953,D483,C480,Rétropéritoine,28,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0153561,C461,C499,"Tissu conjonctif, tissu sous-cutané et autres tissus mous, SAI",29,91403,Sarcome de Kaposi,15
+C0348362,C499,C499,"Tissu conjonctif, tissu sous-cutané et autres tissus mous, SAI",29,80003,"Tumeur maligne, SAI",17
+C0154125,D481,C499,"Tissu conjonctif, tissu sous-cutané et autres tissus mous, SAI",29,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0349035,C498,C498,"Lésion à localisations contiguës du tissu conjonctif, du tissu sous-cutané et autres tissus mous",29,80003,"Tumeur maligne, SAI",17
+C0348361,C496,C496,"Tissu conjonctif, tissu sous-cutané et autres tissus mous du tronc SAI",29,80003,"Tumeur maligne, SAI",17
+C0543394,C495,C495,"Tissu conjonctif, tissu sous-cutané et autres tissus mous du bassin",29,80003,"Tumeur maligne, SAI",17
+C0346848,C494,C494,"Tissu conjonctif, tissu sous-cutané et autres tissus mous de l'abdomen",29,80003,"Tumeur maligne, SAI",17
+C0346141,C493,C493,"Tissu conjonctif, tissu sous-cutané et autres tissus mous du thorax",29,80003,"Tumeur maligne, SAI",17
+C0346836,C492,C492,"Tissu conjonctif, tissu sous-cutané et autres tissus mous de la hanche et du membre inférieur",29,80003,"Tumeur maligne, SAI",17
+C0346829,C491,C491,"Tissu conjonctif, tissu sous-cutané et autres tissus mous de l'épaule et du membre supérieur",29,80003,"Tumeur maligne, SAI",17
+C0347957,C490,C490,"Tissu conjonctif, tissu sous-cutané et autres tissus mous de la tête, de la face et du cou",29,80003,"Tumeur maligne, SAI",17
+C0496811,C505,C505,Quadrant inféro-externe du sein,30,80003,"Tumeur maligne, SAI",17
+C0496810,C504,C504,Quadrant supéro-externe du sein,30,80003,"Tumeur maligne, SAI",17
+C0496809,C503,C503,Quadrant inféro-interne du sein,30,80003,"Tumeur maligne, SAI",17
+C0496808,C502,C502,Quadrant supéro-interne du sein,30,80003,"Tumeur maligne, SAI",17
+C0496807,C501,C501,Région centrale du sein,30,80003,"Tumeur maligne, SAI",17
+C0496806,C500,C500,Mamelon,30,80003,"Tumeur maligne, SAI",17
+C0496812,C506,C506,Prolongement axillaire du sein,30,80003,"Tumeur maligne, SAI",17
+C0348912,C508,C508,Lésion à localisations contiguës du sein,30,80003,"Tumeur maligne, SAI",17
+C0006142,C50,C509,Sein SAI (à l'exclusion de la peau du sein),30,80003,"Tumeur maligne, SAI",17
+C0006142,C50-C509,C509,Sein SAI (à l'exclusion de la peau du sein),30,80003,"Tumeur maligne, SAI",17
+C0006142,C509,C509,Sein SAI (à l'exclusion de la peau du sein),30,80003,"Tumeur maligne, SAI",17
+C0334381,NA,C509,Sein SAI (à l'exclusion de la peau du sein),30,80102,"Carcinome in situ, SAI",5
+C0007124,NA,C509,Sein SAI (à l'exclusion de la peau du sein),30,80102,"Carcinome in situ, SAI",5
+C0348409,NA,C509,Sein SAI (à l'exclusion de la peau du sein),30,80102,"Carcinome in situ, SAI",5
+C0154084,NA,C509,Sein SAI (à l'exclusion de la peau du sein),30,80102,"Carcinome in situ, SAI",5
+C0496956,D486,C509,Sein SAI (à l'exclusion de la peau du sein),30,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0375071,C51,C519,Vulve SAI,31,80003,"Tumeur maligne, SAI",17
+C0375071,C519,C519,Vulve SAI,31,80003,"Tumeur maligne, SAI",17
+C0278729,NA,C519,Vulve SAI,31,80102,"Carcinome in situ, SAI",5
+C0869074,NA,C519,Vulve SAI,31,80001,Tumeur de bénignité ou de malignité non assurée,17
+C1263790,C518,C518,Lésion à localisations contiguës de la vulve,31,80003,"Tumeur maligne, SAI",17
+C0153589,C512,C512,Clitoris,31,80003,"Tumeur maligne, SAI",17
+C0496815,C511,C511,Petite lèvre,31,80003,"Tumeur maligne, SAI",17
+C0496814,C510,C510,Grande lèvre,31,80003,"Tumeur maligne, SAI",17
+C0042237,C52,C529,Vagin SAI,32,80003,"Tumeur maligne, SAI",17
+C0686277,NA,C529,Vagin SAI,32,80102,"Carcinome in situ, SAI",5
+C0869073,NA,C529,Vagin SAI,32,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0007847,C53,C539,Col utérin,33,80003,"Tumeur maligne, SAI",17
+C0007847,C539,C539,Col utérin,33,80003,"Tumeur maligne, SAI",17
+C0348407,NA,C539,Col utérin,33,80102,"Carcinome in situ, SAI",5
+C0851140,NA,C539,Col utérin,33,80102,"Carcinome in situ, SAI",5
+C0869072,NA,C539,Col utérin,33,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0348908,C538,C538,Lésion à localisations contiguës du col utérin,33,80003,"Tumeur maligne, SAI",17
+C0153570,C531,C531,Exocol,33,80003,"Tumeur maligne, SAI",17
+C0349058,NA,C531,Exocol,33,80102,"Carcinome in situ, SAI",5
+C0153569,C530,C530,Endocol,33,80003,"Tumeur maligne, SAI",17
+C0349057,NA,C530,Endocol,33,80102,"Carcinome in situ, SAI",5
+C0153574,C54,C549,Corps utérin,34,80003,"Tumeur maligne, SAI",17
+C0153574,C549,C549,Corps utérin,34,80003,"Tumeur maligne, SAI",17
+C0348907,C548,C548,Lésion à localisations contiguës du corps de l'utérus,34,80003,"Tumeur maligne, SAI",17
+C0496821,C543,C543,Fond utérin,34,80003,"Tumeur maligne, SAI",17
+C0496820,C542,C542,Myomètre,34,80003,"Tumeur maligne, SAI",17
+C0007103,C541,C541,Endomètre,34,80003,"Tumeur maligne, SAI",17
+C0346191,NA,C541,Endomètre,34,80102,"Carcinome in situ, SAI",5
+C0496818,C540,C540,Isthme de l'utérus,34,80003,"Tumeur maligne, SAI",17
+C0153567,C55,C559,Utérus SAI,35,80003,"Tumeur maligne, SAI",17
+C0496919,NA,C559,Utérus SAI,35,80001,Tumeur de bénignité ou de malignité non assurée,17
+C1140680,C56,C569,Ovaire,36,80003,"Tumeur maligne, SAI",17
+C0022790,C796,C569,Ovaire,36,80006,Tumeur métastatique,17
+C0496920,NA,C569,Ovaire,36,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0153581,C573,C573,Paramètre,37,80003,"Tumeur maligne, SAI",17
+C0346867,C572,C572,Ligament rond,37,80003,"Tumeur maligne, SAI",17
+C0346866,C571,C571,Ligament large,37,80003,"Tumeur maligne, SAI",17
+C0153579,C570,C570,Trompe de Fallope,37,80003,"Tumeur maligne, SAI",17
+C0153592,C51-C589,C579,Appareil génital féminin SAI,37,80003,"Tumeur maligne, SAI",17
+C0153592,C579,C579,Appareil génital féminin SAI,37,80003,"Tumeur maligne, SAI",17
+C0154087,NA,C579,Appareil génital féminin SAI,37,80102,"Carcinome in situ, SAI",5
+C0496922,NA,C579,Appareil génital féminin SAI,37,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0346521,NA,C579,Appareil génital féminin SAI,37,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0348367,C578,C578,Lésion à localisations contiguës des organes,37,80003,"Tumeur maligne, SAI",17
+C0348366,C577,C577,Autres régions spécifiées des organes génitaux,37,80003,"Tumeur maligne, SAI",17
+C0153584,C574,C574,Annexes de l'utérus,37,80003,"Tumeur maligne, SAI",17
+C0153572,C58,C589,Placenta,38,80003,"Tumeur maligne, SAI",17
+C0496921,NA,C589,Placenta,38,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0153599,C601,C601,Gland,39,80003,"Tumeur maligne, SAI",17
+C0153600,C602,C602,Corps de la verge,39,80003,"Tumeur maligne, SAI",17
+C0153598,C600,C600,Prépuce,39,80003,"Tumeur maligne, SAI",17
+C0153601,C60,C609,Verge SAI,39,80003,"Tumeur maligne, SAI",17
+C0153601,C609,C609,Verge SAI,39,80003,"Tumeur maligne, SAI",17
+C0154089,NA,C609,Verge SAI,39,80102,"Carcinome in situ, SAI",5
+C0349056,C608,C608,Lésion à localisations contiguës de la verge,39,80003,"Tumeur maligne, SAI",17
+C0376358,C61,C619,Glande prostatique,40,80003,"Tumeur maligne, SAI",17
+C0154088,NA,C619,Glande prostatique,40,80102,"Carcinome in situ, SAI",5
+C0496923,NA,C619,Glande prostatique,40,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0153594,C62,C629,Testicule SAI,41,80003,"Tumeur maligne, SAI",17
+C0153594,C629,C629,Testicule SAI,41,80003,"Tumeur maligne, SAI",17
+C0496924,NA,C629,Testicule SAI,41,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0348906,C621,C621,Testicule intra-scrotal,41,80003,"Tumeur maligne, SAI",17
+C0153595,C620,C620,Testicule ectopique (en tant que localisation néoplasique),41,80003,"Tumeur maligne, SAI",17
+C0153602,C630,C630,Épididyme,39,80003,"Tumeur maligne, SAI",17
+C0153606,C60-C639,C639,Organes génitaux masculins SAI,39,80003,"Tumeur maligne, SAI",17
+C0153606,C639,C639,Organes génitaux masculins SAI,39,80003,"Tumeur maligne, SAI",17
+C0154090,NA,C639,Organes génitaux masculins SAI,39,80102,"Carcinome in situ, SAI",5
+C0496925,NA,C639,Organes génitaux masculins SAI,39,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0496926,NA,C639,Organes génitaux masculins SAI,39,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0348369,C638,C638,Lésion à localisations contiguës des organes masculins,39,80003,"Tumeur maligne, SAI",17
+C0348368,C637,C637,Autres régions spécifiées des organes génitaux masculins,39,80003,"Tumeur maligne, SAI",17
+C0153604,C632,C632,Scrotum SAI,39,80003,"Tumeur maligne, SAI",17
+C0153603,C631,C631,Cordon spermatique,39,80003,"Tumeur maligne, SAI",17
+C0494158,C64,C649,Rein SAI,42,80003,"Tumeur maligne, SAI",17
+C0496927,NA,C649,Rein SAI,42,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0153618,C65,C659,Bassinet,43,80003,"Tumeur maligne, SAI",17
+C0348902,NA,C659,Bassinet,43,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0153619,C66,C669,Uretère,43,80003,"Tumeur maligne, SAI",17
+C0496928,NA,C669,Uretère,43,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0153614,C676,C676,Orifice urétéral,43,80003,"Tumeur maligne, SAI",17
+C0153612,C674,C674,Paroi postérieure de la vessie,43,80003,"Tumeur maligne, SAI",17
+C0153615,C677,C677,Ouraque,43,80003,"Tumeur maligne, SAI",17
+C0153611,C673,C673,Paroi antérieure de la vessie,43,80003,"Tumeur maligne, SAI",17
+C0496828,C672,C672,Paroi latérale de la vessie,43,80003,"Tumeur maligne, SAI",17
+C0496827,C671,C671,Dôme de la vessie,43,80003,"Tumeur maligne, SAI",17
+C0153613,C675,C675,Col vésical,43,80003,"Tumeur maligne, SAI",17
+C0496826,C670,C670,Trigone de la vessie,43,80003,"Tumeur maligne, SAI",17
+C0005684,C67,C679,Vessie SAI,43,80003,"Tumeur maligne, SAI",17
+C0005684,C679,C679,Vessie SAI,43,80003,"Tumeur maligne, SAI",17
+C0154091,NA,C679,Vessie SAI,43,80102,"Carcinome in situ, SAI",5
+C0496930,NA,C679,Vessie SAI,43,80102,"Carcinome in situ, SAI",5
+C0349054,C678,C678,Lésion à localisations contiguës de la vessie,43,80003,"Tumeur maligne, SAI",17
+C0348371,C689,C689,Appareil urinaire SAI,43,80003,"Tumeur maligne, SAI",17
+C0494167,C790,C689,Appareil urinaire SAI,43,80006,Tumeur métastatique,17
+C0153686,C791,C689,Appareil urinaire SAI,43,80006,Tumeur métastatique,17
+C0154092,NA,C689,Appareil urinaire SAI,43,80102,"Carcinome in situ, SAI",5
+C0496931,NA,C689,Appareil urinaire SAI,43,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0496932,NA,C689,Appareil urinaire SAI,43,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0349055,C688,C688,Lésion à localisations contiguës de l' appareil urinaire,43,80003,"Tumeur maligne, SAI",17
+C0153621,C681,C681,Glande para-urétrale,43,80003,"Tumeur maligne, SAI",17
+C0153620,C680,C680,Urètre,43,80003,"Tumeur maligne, SAI",17
+C0496929,NA,C680,Urètre,43,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0496836,C699,C699,Œil SAI,44,80003,"Tumeur maligne, SAI",17
+C0154094,NA,C699,Œil SAI,44,80102,"Carcinome in situ, SAI",5
+C1533639,C698,C698,Lésion à localisations contiguës de l'œil et des annexes,44,80003,"Tumeur maligne, SAI",17
+C0153626,C696,C696,Orbite SAI,44,80003,"Tumeur maligne, SAI",17
+C0496834,C695,C695,Glande lacrymale,44,80003,"Tumeur maligne, SAI",17
+C0496833,C694,C694,Corps ciliaire,44,80003,"Tumeur maligne, SAI",17
+C0153630,C693,C693,Choroïde,44,80003,"Tumeur maligne, SAI",17
+C0024622,C692,C692,Rétine,44,80003,"Tumeur maligne, SAI",17
+C0153629,C691,C691,Cornée SAI,44,80003,"Tumeur maligne, SAI",17
+C0153628,C690,C690,Conjonctive,44,80003,"Tumeur maligne, SAI",17
+C0348375,C70,C709,Méninges SAI,45,80003,"Tumeur maligne, SAI",17
+C0348375,C709,C709,Méninges SAI,45,80003,"Tumeur maligne, SAI",17
+C0348426,NA,C709,Méninges SAI,45,80000,Tumeur bénigne,17
+C0154120,NA,C709,Méninges SAI,45,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0153647,C701,C701,Méninges rachidiennes,45,80003,"Tumeur maligne, SAI",17
+C0154035,NA,C701,Méninges rachidiennes,45,80000,Tumeur bénigne,17
+C0496934,NA,C701,Méninges rachidiennes,45,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0153645,C700,C700,Méninges cérébrales,45,80003,"Tumeur maligne, SAI",17
+C0154033,NA,C700,Méninges cérébrales,45,80000,Tumeur bénigne,17
+C0496933,NA,C700,Méninges cérébrales,45,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0496837,C718,C718,Lésion à localisations contiguës du cerveau,46,80003,"Tumeur maligne, SAI",17
+C0153641,C717,C717,Tronc cérébral,46,80003,"Tumeur maligne, SAI",17
+C0153640,C716,C716,Cervelet SAI,46,80003,"Tumeur maligne, SAI",17
+C0346906,C715,C715,Ventricule SAI,46,80003,"Tumeur maligne, SAI",17
+C0153638,C714,C714,Lobe occipital,46,80003,"Tumeur maligne, SAI",17
+C0153637,C713,C713,Lobe pariétal,46,80003,"Tumeur maligne, SAI",17
+C0153636,C712,C712,Lobe temporal,46,80003,"Tumeur maligne, SAI",17
+C0153635,C711,C711,Lobe frontal,46,80003,"Tumeur maligne, SAI",17
+C0153634,C710,C710,Cerveau,46,80003,"Tumeur maligne, SAI",17
+C0349015,NA,C710,Cerveau,46,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0349016,NA,C710,Cerveau,46,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0496936,NA,C710,Cerveau,46,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0153633,C71,C719,Encéphale SAI,46,80003,"Tumeur maligne, SAI",17
+C0153633,C719,C719,Encéphale SAI,46,80003,"Tumeur maligne, SAI",17
+C0494168,C793,C719,Encéphale SAI,46,80006,Tumeur métastatique,17
+C0349059,NA,C719,Encéphale SAI,46,80000,Tumeur bénigne,17
+C0496898,NA,C719,Encéphale SAI,46,80000,Tumeur bénigne,17
+C0496899,NA,C719,Encéphale SAI,46,80000,Tumeur bénigne,17
+C0349017,C721,C721,Queue de cheval,47,80003,"Tumeur maligne, SAI",17
+C0496838,C722,C722,Nerf olfactif,47,80003,"Tumeur maligne, SAI",17
+C0496839,C728,C728,Lésion à localisations contiguës du cerveau et du système nerveux central,47,80003,"Tumeur maligne, SAI",17
+C0346331,C724,C724,Nerf acoustique (vestibulo-cochléaire),47,80003,"Tumeur maligne, SAI",17
+C0348374,C729,C729,Système nerveux SAI,47,80003,"Tumeur maligne, SAI",17
+C0348385,C794,C729,Système nerveux SAI,47,80006,Tumeur métastatique,17
+C0348419,NA,C729,Système nerveux SAI,47,80000,Tumeur bénigne,17
+C0347509,NA,C729,Système nerveux SAI,47,80000,Tumeur bénigne,17
+C0496939,NA,C729,Système nerveux SAI,47,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0496940,NA,C729,Système nerveux SAI,47,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0346323,C723,C723,Nerf optique,47,80003,"Tumeur maligne, SAI",17
+C0348373,C725,C725,Nerf crânien SAI,47,80003,"Tumeur maligne, SAI",17
+C0004992,NA,C725,Nerf crânien SAI,47,80000,Tumeur bénigne,17
+C0496937,NA,C725,Nerf crânien SAI,47,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0153646,C720,C720,Moelle épinière,47,80003,"Tumeur maligne, SAI",17
+C0154034,NA,C720,Moelle épinière,47,80000,Tumeur bénigne,17
+C0496938,NA,C720,Moelle épinière,47,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0007115,C73,C739,Glande thyroïde,48,80003,"Tumeur maligne, SAI",17
+C0496941,NA,C739,Glande thyroïde,48,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0750887,C74,C749,Glande surrénale SAI,49,80003,"Tumeur maligne, SAI",17
+C0750887,C749,C749,Glande surrénale SAI,49,80003,"Tumeur maligne, SAI",17
+C0153691,C797,C749,Glande surrénale SAI,49,80006,Tumeur métastatique,17
+C0154117,NA,C749,Glande surrénale SAI,49,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0344456,C741,C741,Médullosurrénale,49,80003,"Tumeur maligne, SAI",17
+C0346402,C740,C740,Cortex surrénalien,49,80003,"Tumeur maligne, SAI",17
+C0496842,C751,C751,Glande hypophysaire,49,80003,"Tumeur maligne, SAI",17
+C0496944,NA,C751,Glande hypophysaire,49,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0153653,C750,C750,Glande parathyroïde,49,80003,"Tumeur maligne, SAI",17
+C0496943,NA,C750,Glande parathyroïde,49,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0153658,C759,C759,Glande endocrine SAI,49,80003,"Tumeur maligne, SAI",17
+C0496856,NA,C759,Glande endocrine SAI,49,80102,"Carcinome in situ, SAI",5
+C0496950,NA,C759,Glande endocrine SAI,49,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0348378,C758,C758,Lésion à localisations contiguës des glandes endocrines,49,80003,"Tumeur maligne, SAI",17
+C0496949,NA,C758,Lésion à localisations contiguës des glandes endocrines,49,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0438413,C755,C755,Corpuscule aortique et autres paraganglions,49,80003,"Tumeur maligne, SAI",17
+C0496948,NA,C755,Corpuscule aortique et autres paraganglions,49,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0153656,C754,C754,Corpuscule carotidien,49,80003,"Tumeur maligne, SAI",17
+C0496947,NA,C754,Corpuscule carotidien,49,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0153655,C753,C753,Glande pinéale,49,80003,"Tumeur maligne, SAI",17
+C0496946,NA,C753,Glande pinéale,49,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0496843,C752,C752,Canal craniopharyngé,49,80003,"Tumeur maligne, SAI",17
+C0496945,NA,C752,Canal craniopharyngé,49,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0348381,C768,C768,Lésion à localisations contiguës des régions mal définies,50,80003,"Tumeur maligne, SAI",17
+C0153659,C76,C767,Autres régions mal définies,50,80003,"Tumeur maligne, SAI",17
+C0153659,C767,C767,Autres régions mal définies,50,80003,"Tumeur maligne, SAI",17
+C0153665,C765,C765,Membre inférieur SAI,50,80003,"Tumeur maligne, SAI",17
+C0153664,C764,C764,Membre supérieur SAI,50,80003,"Tumeur maligne, SAI",17
+C0153663,C763,C763,Bassin SAI,50,80003,"Tumeur maligne, SAI",17
+C0153662,C762,C762,Abdomen SAI,50,80003,"Tumeur maligne, SAI",17
+C0153661,C761,C761,Thorax SAI,50,80003,"Tumeur maligne, SAI",17
+C0153660,C760,C760,"Tête, face ou cou SAI",50,80003,"Tumeur maligne, SAI",17
+C0686645,C771,C771,Ganglions lymphatiques intra-thoraciques,51,80006,Tumeur métastatique,17
+C0153668,C770,C770,"Ganglions lymphatiques de la tête, de la face et du cou",51,80006,Tumeur métastatique,17
+C0153565,C463,C779,Ganglion lymphatique SAI,51,91403,Sarcome de Kaposi,15
+C0686619,C77,C779,Ganglion lymphatique SAI,51,80003,"Tumeur maligne, SAI",17
+C0686619,C779,C779,Ganglion lymphatique SAI,51,80003,"Tumeur maligne, SAI",17
+C0686619,C77,C779,Ganglion lymphatique SAI,51,80006,Tumeur métastatique,17
+C0686619,C779,C779,Ganglion lymphatique SAI,51,80006,Tumeur métastatique,17
+C0348382,C778,C778,Ganglions lymphatiques de régions multiples,51,80006,Tumeur métastatique,17
+C0686689,C775,C775,Ganglions lymphatiques pelviens,51,80006,Tumeur métastatique,17
+C0347055,C774,C774,Ganglions lymphatiques de la région inguinale ou de la jambe,51,80006,Tumeur métastatique,17
+C0153671,C773,C773,Ganglions lymphatiques de l'aisselle ou du bras,51,80006,Tumeur métastatique,17
+C0686655,C772,C772,Ganglions lymphatiques intra-abdominaux,51,80006,Tumeur métastatique,17
+C0452189,NA,C809,Siège primaire non précisé,52,96873,"Lymphome de Burkitt, SAI (voir aussi M-9826/3)",9
+C0452192,NA,C809,Siège primaire non précisé,52,95913,"Lymphome malin non-hodgkinien, SAI",14
+C0348353,C457,C809,Siège primaire non précisé,52,90503,Mésothéliome malin,7
+C0025500,C45,C809,Siège primaire non précisé,52,90503,Mésothéliome malin,7
+C0025500,C459,C809,Siège primaire non précisé,52,90503,Mésothéliome malin,7
+C0348364,C467,C809,Siège primaire non précisé,52,91403,Sarcome de Kaposi,15
+C0348355,C468,C809,Siège primaire non précisé,52,91403,Sarcome de Kaposi,15
+C0036220,C46,C809,Siège primaire non précisé,52,91403,Sarcome de Kaposi,15
+C0036220,C469,C809,Siège primaire non précisé,52,91403,Sarcome de Kaposi,15
+C0153675,C78,C809,Siège primaire non précisé,52,80003,"Tumeur maligne, SAI",17
+C0153684,C798,C809,Siège primaire non précisé,52,80006,Tumeur métastatique,17
+C0006826,C00-C979,C809,Siège primaire non précisé,52,80003,"Tumeur maligne, SAI",17
+C0006826,C80,C809,Siège primaire non précisé,52,80003,"Tumeur maligne, SAI",17
+NA,NA,C809,Siège primaire non précisé,52,80003,"Tumeur maligne, SAI",17
+NA,NA,C809,Siège primaire non précisé,52,96983,"Lymphome folliculaire, grade 3",9
+C1266194,C810,C809,Siège primaire non précisé,52,96513,Lymphome de Hodgkin riche en lymphocytes,11
+C0152268,C811,C809,Siège primaire non précisé,52,96633,"Lymphome de Hodgkin, sclérose nodulaire, SAI",11
+C0152266,C812,C809,Siège primaire non précisé,52,96523,"Lymphome de Hodgkin, à cellularité mixte, SAI",11
+C0152267,C813,C809,Siège primaire non précisé,52,96533,"Lymphome de Hodgkin, à déplétion lymphoïde, SAI",11
+C0348387,C817,C809,Siège primaire non précisé,52,96503,"Lymphome de Hodgkin, SAI",11
+C0019829,C81,C809,Siège primaire non précisé,52,96503,"Lymphome de Hodgkin, SAI",11
+C0019829,C819,C809,Siège primaire non précisé,52,96503,"Lymphome de Hodgkin, SAI",11
+C0079765,C820,C809,Siège primaire non précisé,52,96953,"Lymphome folliculaire, grade 1",9
+C0079758,C821,C809,Siège primaire non précisé,52,96913,"Lymphome folliculaire, grade 2",9
+C0348388,C827,C809,Siège primaire non précisé,52,96993,"Lymphome de la zone marginale à cellules B, SAI",9
+C0024301,C82,C809,Siège primaire non précisé,52,96903,"Lymphome folliculaire, SAI (voir aussi M-9675/3)",9
+C0024301,C829,C809,Siège primaire non précisé,52,96903,"Lymphome folliculaire, SAI (voir aussi M-9675/3)",9
+C0334645,C830,C809,Siège primaire non précisé,52,96703,"Lymphome malin à petits lymphocytes B, SAI (voir aussi M-9823/3)",9
+C0024305,C831,C809,Siège primaire non précisé,52,95913,"Lymphome malin non-hodgkinien, SAI",14
+C0024305,C859,C809,Siège primaire non précisé,52,95913,"Lymphome malin non-hodgkinien, SAI",14
+C0334621,C832,C809,Siège primaire non précisé,52,96753,Lymphome malin diffus mixte à petites et grandes cellules [obs] (voir aussi M-9690/3),9
+C0079744,C833,C809,Siège primaire non précisé,52,96803,"Lymphome malin diffus à grandes cellules B, SAI",9
+C0079746,C834,C809,Siège primaire non précisé,52,96843,"Lymphome malin immunoblastique diffus à grandes cellules B, SAI",9
+C0079748,C835,C809,Siège primaire non précisé,52,97273,"Lymphome lymphoblastique à cellules précurseurs, SAI (voir aussi M-9835/3)",14
+C0024306,C836,C809,Siège primaire non précisé,52,95913,"Lymphome malin non-hodgkinien, SAI",14
+C0006413,C837,C809,Siège primaire non précisé,52,96873,"Lymphome de Burkitt, SAI (voir aussi M-9826/3)",9
+C0348389,C838,C809,Siège primaire non précisé,52,95913,"Lymphome malin non-hodgkinien, SAI",14
+C0348394,C83,C809,Siège primaire non précisé,52,95913,"Lymphome malin non-hodgkinien, SAI",14
+C0348394,C839,C809,Siège primaire non précisé,52,95913,"Lymphome malin non-hodgkinien, SAI",14
+C0026948,C840,C809,Siège primaire non précisé,52,97003,Mycosis fongoïde (C44.-),10
+C0036920,C841,C809,Siège primaire non précisé,52,97013,Maladie de Sézary,10
+C0334655,C842,C809,Siège primaire non précisé,52,97023,"Lymphome à cellules T matures, SAI",10
+C1621719,C843,C809,Siège primaire non précisé,52,97093,"Lymphome cutané à cellules T, SAI (C44.-)",10
+C0079774,C844,C809,Siège primaire non précisé,52,97023,"Lymphome à cellules T matures, SAI",10
+C0494171,C845,C809,Siège primaire non précisé,52,95913,"Lymphome malin non-hodgkinien, SAI",14
+C0079734,C850,C809,Siège primaire non précisé,52,95913,"Lymphome malin non-hodgkinien, SAI",14
+C0348396,C851,C809,Siège primaire non précisé,52,95913,"Lymphome malin non-hodgkinien, SAI",14
+C0348390,C857,C809,Siège primaire non précisé,52,95913,"Lymphome malin non-hodgkinien, SAI",14
+C0024419,C880,C809,Siège primaire non précisé,52,97613,Macroglobulinémie de Waldenström (C42.0) (voir aussi M-9671/3),9
+C0021071,C883,C809,Siège primaire non précisé,52,97623,"Maladie des chaînes lourdes, SAI",9
+C0021071,C881,C809,Siège primaire non précisé,52,97623,"Maladie des chaînes lourdes, SAI",9
+C0021071,C883,C809,Siège primaire non précisé,52,97643,Maladie immunoproliférative de l’intestin grêle (C17.-),9
+C0021071,C881,C809,Siège primaire non précisé,52,97643,Maladie immunoproliférative de l’intestin grêle (C17.-),9
+C0018854,C882,C809,Siège primaire non précisé,52,97623,"Maladie des chaînes lourdes, SAI",9
+C0348391,C887,C809,Siège primaire non précisé,52,97603,"Maladie immunoproliférative, SAI",14
+C1264191,C88,C809,Siège primaire non précisé,52,97603,"Maladie immunoproliférative, SAI",14
+C1264191,C889,C809,Siège primaire non précisé,52,97603,"Maladie immunoproliférative, SAI",14
+C0026764,C900,C809,Siège primaire non précisé,52,97323,Myélome multiple (C42.1),9
+C0023484,C901,C809,Siège primaire non précisé,52,97333,Leucémie à plasmocytes (C42.1),9
+C0278619,C902,C809,Siège primaire non précisé,52,97313,"Plasmocytome, SAI",9
+C0023449,C910,C809,Siège primaire non précisé,52,98353,"Leucémie lymphoblastique à cellules précurseurs, SAI (voir aussi M-9727/3)",14
+C0023434,C911,C809,Siège primaire non précisé,52,98233,Leucémie lymphoïde chronique à cellules B/lymphome à petits lymphocytes (voir aussi M-9670/3),9
+C0152271,C912,C809,Siège primaire non précisé,52,98203,"Leucémie lymphoïde, SAI",14
+C0023486,C913,C809,Siège primaire non précisé,52,98323,"Leucémie prolymphocytaire, SAI",14
+C0023443,C914,C809,Siège primaire non précisé,52,99403,Leucémie à tricholeucocytes (C42.1),9
+C0023493,C915,C809,Siège primaire non précisé,52,98273,"Leucémie/lymphome à cellules T, type adulte (HTLV-1 positif) incluant toutes les variétés",10
+C0029660,C917,C809,Siège primaire non précisé,52,98203,"Leucémie lymphoïde, SAI",14
+C0023448,C91,C809,Siège primaire non précisé,52,98203,"Leucémie lymphoïde, SAI",14
+C0023448,C919,C809,Siège primaire non précisé,52,98203,"Leucémie lymphoïde, SAI",14
+C0023467,C920,C809,Siège primaire non précisé,52,98613,"Leucémie aiguë myéloïde, SAI (type FAB ou OMS  non précisé) (voir aussi M-9930/3)",8
+C0023473,C921,C809,Siège primaire non précisé,52,98633,"Leucémie myéloïde chronique, SAI",8
+C0349640,C922,C809,Siège primaire non précisé,52,98603,"Leucémie myéloïde, SAI",14
+C0152276,C923,C809,Siège primaire non précisé,52,99303,Sarcome myéloïde (voir aussi M-9861/3),8
+C0023487,C924,C809,Siège primaire non précisé,52,98663,"Leucémie promyélocytaire aiguë, t(15;17)(q22;q11-12)",8
+C0023479,C925,C809,Siège primaire non précisé,52,98673,Leucémie aiguë myélomonocytaire,8
+C0029670,C927,C809,Siège primaire non précisé,52,98603,"Leucémie myéloïde, SAI",14
+C0023470,C92,C809,Siège primaire non précisé,52,98603,"Leucémie myéloïde, SAI",14
+C0023470,C929,C809,Siège primaire non précisé,52,98603,"Leucémie myéloïde, SAI",14
+C0023465,C930,C809,Siège primaire non précisé,52,98913,Leucémie aiguë monocytaire,8
+C0023466,C931,C809,Siège primaire non précisé,52,99453,"Leucémie chronique myélomonocytaire, SAI",8
+C0152275,C932,C809,Siège primaire non précisé,52,98603,"Leucémie myéloïde, SAI",14
+C0598894,C93,C809,Siège primaire non précisé,52,98603,"Leucémie myéloïde, SAI",14
+C0598894,C939,C809,Siège primaire non précisé,52,98603,"Leucémie myéloïde, SAI",14
+C0001317,C940,C809,Siège primaire non précisé,52,98403,"Leucémie myéloïde aiguë, type M6",8
+C0152272,C941,C809,Siège primaire non précisé,52,99503,Polycythémie vraie,8
+C0023462,C942,C809,Siège primaire non précisé,52,99103,Leucémie mégacaryoblastique aiguë,8
+C0023461,C943,C809,Siège primaire non précisé,52,97423,Leucémie à mastocytes (C42.1),12
+C0334674,C945,C809,Siège primaire non précisé,52,99313,Panmyélose aiguë avec myélofibrose (C42.1),8
+C0334674,C944,C809,Siège primaire non précisé,52,99313,Panmyélose aiguë avec myélofibrose (C42.1),8
+C0029812,C947,C809,Siège primaire non précisé,52,99483,Leucémie agressive à cellules NK,10
+C0085669,C950,C809,Siège primaire non précisé,52,98013,"Leucémie aiguë, SAI",14
+C1279296,C951,C809,Siège primaire non précisé,52,98003,"Leucémie, SAI",14
+C0153924,C952,C809,Siège primaire non précisé,52,98003,"Leucémie, SAI",14
+C0029655,C957,C809,Siège primaire non précisé,52,98003,"Leucémie, SAI",14
+C0023418,C95,C809,Siège primaire non précisé,52,98003,"Leucémie, SAI",14
+C0023418,C959,C809,Siège primaire non précisé,52,98003,"Leucémie, SAI",14
+C0023381,C960,C809,Siège primaire non précisé,52,97543,"Histiocytose à cellules de Langerhans, disséminée",13
+C0019623,C961,C809,Siège primaire non précisé,52,97503,Histiocytose maligne,13
+C0036221,C962,C809,Siège primaire non précisé,52,97401,"Mastocytome, SAI",12
+C0334663,C963,C809,Siège primaire non précisé,52,97553,Sarcome histiocytaire,13
+C0362051,C97-C979,C809,Siège primaire non précisé,52,80003,"Tumeur maligne, SAI",17
+C0362051,C97,C809,Siège primaire non précisé,52,80003,"Tumeur maligne, SAI",17
+C0494177,NA,C809,Siège primaire non précisé,52,80102,"Carcinome in situ, SAI",5
+C0154067,NA,C809,Siège primaire non précisé,52,80102,"Carcinome in situ, SAI",5
+C0496854,NA,C809,Siège primaire non précisé,52,80102,"Carcinome in situ, SAI",5
+C0348400,NA,C809,Siège primaire non précisé,52,80102,"Carcinome in situ, SAI",5
+C0154057,NA,C809,Siège primaire non précisé,52,80102,"Carcinome in situ, SAI",5
+C0494178,NA,C809,Siège primaire non précisé,52,80102,"Carcinome in situ, SAI",5
+C0346040,NA,C809,Siège primaire non précisé,52,87202,Mélanome in situ,16
+C0154073,NA,C809,Siège primaire non précisé,52,80102,"Carcinome in situ, SAI",5
+C0154084,NA,C809,Siège primaire non précisé,52,80102,"Carcinome in situ, SAI",5
+C0851140,NA,C809,Siège primaire non précisé,52,80102,"Carcinome in situ, SAI",5
+C0494180,NA,C809,Siège primaire non précisé,52,80102,"Carcinome in situ, SAI",5
+C0154093,NA,C809,Siège primaire non précisé,52,80102,"Carcinome in situ, SAI",5
+C0007100,NA,C809,Siège primaire non précisé,52,80102,"Carcinome in situ, SAI",5
+C0007099,NA,C809,Siège primaire non précisé,52,80102,"Carcinome in situ, SAI",5
+C0496904,NA,C809,Siège primaire non précisé,52,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0496909,NA,C809,Siège primaire non précisé,52,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0154101,NA,C809,Siège primaire non précisé,52,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0496911,NA,C809,Siège primaire non précisé,52,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0032463,NA,C809,Siège primaire non précisé,52,99503,Polycythémie vraie,8
+C0348889,NA,C809,Siège primaire non précisé,52,99803,Anémie réfractaire,8
+C0334679,NA,C809,Siège primaire non précisé,52,99823,Anémie réfractaire avec sidéroblastes,8
+C0002894,NA,C809,Siège primaire non précisé,52,99833,Anémie réfractaire avec excès de blastes,8
+C0280028,NA,C809,Siège primaire non précisé,52,98603,"Leucémie myéloïde, SAI",14
+C0348439,NA,C809,Siège primaire non précisé,52,99803,Anémie réfractaire,8
+C0494210,NA,C809,Siège primaire non précisé,52,99893,"Syndrome myélodysplasique, SAI",14
+C0026986,NA,C809,Siège primaire non précisé,52,99893,"Syndrome myélodysplasique, SAI",14
+C0154127,NA,C809,Siège primaire non précisé,52,97401,"Mastocytome, SAI",12
+C1292778,NA,C809,Siège primaire non précisé,52,99603,"Maladie myéloproliférative chronique, SAI",14
+C1136085,NA,C809,Siège primaire non précisé,52,97651,Gammapathie monoclonale de signification indéterminée,9
+C0040028,NA,C809,Siège primaire non précisé,52,99623,Thrombocythémie essentielle,8
+C0496957,D487,C809,Siège primaire non précisé,52,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0694450,D489,C809,Siège primaire non précisé,52,80001,Tumeur de bénignité ou de malignité non assurée,17
+C0477318,NA,C809,Siège primaire non précisé,52,98311,Leucémie lymphoïde à grandes cellules T granuleuses,10
+C0206182,NA,C809,Siège primaire non précisé,52,97183,Syndrome lymphoprolifératif cutané primitif à cellules T CD30+,10
+C0260437,NA,C809,Siège primaire non précisé,52,80003,"Tumeur maligne, SAI",17
+C0478631,NA,C809,Siège primaire non précisé,52,80003,"Tumeur maligne, SAI",17
