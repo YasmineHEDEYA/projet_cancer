@@ -1,16 +1,16 @@
 <html>
 <head>
     <meta charset="utf-8" />
-    <meta name="author" content="Yasmine Hedeya">
-    <link rel="stylesheet" href="style/bootstrap.min.css" />
-    <link rel="stylesheet" href="style/Mon_css_bootsrap.css" />
+    <link rel="stylesheet" href="../style/bootstrap.min.css" />
+    <link rel="stylesheet" href="../style/Mon_css_bootsrap.css" />
+   
     <title>Diagnostics</title>
 </head>
 
 <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <a class="navbar-brand" href="accueil.php">
-   <img src="_logo .svg" width="30" height="30">
+   <img src="../_logo .svg" width="30" height="30">
     </a>
 
   <div class="collapse navbar-collapse">
@@ -38,24 +38,22 @@
         <div  class="row align-items-center">
             <div class="container beige">
                   <br />
-                      <h3 class = 'title'> MENU PRINCIPAL </h3>
+                      <h3 class = 'title'> DIAGNOSTICS </h3>
                       <br />
-                      <br/>
                       <div class="row">
                           <div class="col">
-                              <input  class="btn btn-info " type="submit" name="anapath" onclick=window.location.href="identitovigilance.php" value="Identitovigilance" />
-                          </div>
-                      </div><br />
-                      <div class="row">
-                          <div class="col">
-                              <input  class="btn btn-info " type="submit" name="anapath" onclick=window.location.href="diagnostics/diagnostics.php" value="Transcodage" />
+                              <input  class="btn btn-info " type="submit" name="anapath" onclick=window.location.href="transcodage.php" value="Transcodage" />
                           </div>
                       </div><br />
                        <div class="col">
-                              <input  class="btn btn-info " type="submit" name="anapath" onclick=window.location.href="accueil_cancer.php" value="Cancers" />
+                              <input  class="btn btn-info " type="submit" name="anapath" onclick=window.location.href="recherche_code.php" value="Rechercher un code" />
                           </div><br />
 
-                           
+                      <div class="row">
+                          <div class="col">     
+                              <input class="btn btn-info " type="submit" name="retour" value="Retour" />
+                          </div>
+                      </div>        
                       <br />
             </div>
         </div>
