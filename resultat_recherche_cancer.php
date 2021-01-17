@@ -94,7 +94,7 @@ session_start();
 
             <div class="  container ">
                 <br/>
-                    <h3 ><strong> RECHERCHE PAR <?php echo strtoupper($_SESSION['critere']); ?> POUR <?php echo strtoupper($_SESSION['recherche']);  ?> </strong></h3>
+                    <h3 class='title' > RECHERCHE PAR <?php echo strtoupper($_SESSION['critere']); ?> POUR <?php echo strtoupper($_SESSION['recherche']);  ?> </h3>
                     <br />
                     <?php
 
@@ -103,6 +103,7 @@ try {$bdd = new PDO('mysql:host=localhost;dbname=cancer_final', 'root', '',  arr
 } catch (Exception $e) {
     die('Erreur : ' . $e->getMessage());
 };
+
     if($_SESSION['critere']=='age')
         $requete = 'SELECT * FROM `cancer`join tab_patient on cancer.newid=tab_patient.id where (year(now())-year(date_naissance))='.$_SESSION['recherche'].';';
     else if ($_SESSION['critere']=='ADICAP'||$_SESSION['critere']=='cim10'||$_SESSION['critere']=='libelle')
@@ -114,7 +115,7 @@ try {$bdd = new PDO('mysql:host=localhost;dbname=cancer_final', 'root', '',  arr
 
     $resultat = $bdd->query($requete);
     $ligne = $resultat->fetch();
-
+    $nb=0;
 // // affichage des  cancers
 echo '<table style="max-height: 400px;
 display: block;
@@ -135,11 +136,13 @@ echo '<thead>
 
     echo '<tr><td>'. $ligne[1].'</td><td>'. substr($ligne[2],0,4).'</td><td>'. $ligne[3].'</td><td>'. $ligne[4].'</td><td>'. $ligne[5] .'</td><td>'. $ligne[6].'</td><td>'. $ligne[7].'</td></tr>';
     $ligne = $resultat->fetch();
+    $nb=$nb+1;
 };
  $resultat->closeCursor();
 ?>
 </tbody>
 </table>
+<?php echo "<h3>nombre de lignes: ".$nb."</h3>"; ?>
                    
                     <br />
 

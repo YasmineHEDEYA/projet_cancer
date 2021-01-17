@@ -48,7 +48,7 @@
                       </div><br />
                       <div class="row">
                           <div class="col">
-                              <input  class="btn btn-info " type="submit" name="anapath" onclick=window.location.href="diagnostics/diagnostics.php" value="Transcodage" />
+                              <input  class="btn btn-info " type="submit" name="anapath" onclick=window.location.href="diagnostics/diagnostics.php" value="Diagnostics" />
                           </div>
                       </div><br />
                        <div class="col">

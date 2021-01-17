@@ -42,16 +42,16 @@
                       <br />
                       <div class="row">
                           <div class="col">
-                              <input  class="btn btn-info " type="submit" name="anapath" onclick=window.location.href="transcodage.php" value="Transcodage" />
+                              <input  class="btn btn-info " type="submit" name="anapath" onclick=window.location.href="transcodage.php" value="Afficher tout" />
                           </div>
                       </div><br />
                        <div class="col">
-                              <input  class="btn btn-info " type="submit" name="anapath" onclick=window.location.href="recherche_code.php" value="Rechercher un code" />
+                              <input  class="btn btn-info " type="submit" name="anapath" onclick=window.location.href="recherche_code.php" value="Faire une recherche" />
                           </div><br />
 
                       <div class="row">
                           <div class="col">     
-                              <input class="btn btn-info " type="submit" name="retour" value="Retour" />
+                              <input class="btn btn-info " type="submit" name="retour" onclick=window.location.href="../accueil.php" value="Retour" />
                           </div>
                       </div>        
                       <br />

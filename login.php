@@ -10,9 +10,9 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <style type="text/css">
        .beige {
-    height: 70vh;
+    height: 95vh;
     width: 60vh;
-    margin-top: -5vh;
+    margin-top: -20vh;
     margin-bottom: 10vh;
 }
     </style>
@@ -31,10 +31,10 @@
     <div class="row align-items-center">
 <div class="container beige">
         <form class="text-center p-4" action="test_cnx.php" method="POST" >
-            <h3 class="title" >BIENVENUE DANS LE REGISTRE DES CANCERS</h3>
-            <br />
+            
+            <img src="_logo .svg" width=300px height=300px/>
             <legend>
-                <h5 >Connexion</h5>
+                <h4 class= 'title' >CONNEXION</h4>
             </legend>
             <br />
             <input type="text" class="form-control" placeholder="Utilisateur*" name='utilisateur' required>

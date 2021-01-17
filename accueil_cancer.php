@@ -42,13 +42,13 @@
                     <br />
                     <br/>
                     <p>
-                        <input class="btn btn-info " onclick="window.location.href='afficher_tout_cancer.php'" type="submit" name="btnCon" value="AFFICHER TOUT" />
+                        <input class="btn btn-info " onclick="window.location.href='afficher_tout_cancer.php'" type="submit" name="btnCon" value="Afficher tout" />
                     </p>
                     <p>
-                        <input class="btn btn-info " onclick="window.location.href='recherche_cancer.php'" type="submit" name="btnAj" value="FAIRE UNE RECHERCHE" />
+                        <input class="btn btn-info " onclick="window.location.href='recherche_cancer.php'" type="submit" name="btnAj" value="Faire une recherche" />
                     </p>
                     <p>
-                        <input class="btn btn-info" onclick="window.location.href='accueil.php'"type="submit" name="btnSup" value="RETOUR" />
+                        <input class="btn btn-info" onclick="window.location.href='accueil.php'"type="submit" name="btnSup" value="Retour" />
                     </p>
                       
                 <br />

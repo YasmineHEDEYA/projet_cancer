@@ -104,6 +104,7 @@
     $requete = 'SELECT * FROM `cancer`;';
     $resultat = $bdd->query($requete);
     $ligne = $resultat->fetch();
+    $nb=0;
    
     // // affichage de tous les  cancers
     echo '<table style="max-height: 400px;
@@ -125,11 +126,13 @@
 
         echo '<tr><td>'. $ligne[1].'</td><td>'. substr($ligne[2],0,4).'</td><td>'. $ligne[3].'</td><td>'. $ligne[4].'</td><td>'. $ligne[5] .'</td><td>'. $ligne[6].'</td><td>'. $ligne[7].'</td></tr>';
         $ligne = $resultat->fetch();
+        $nb=$nb+1;
     };
      $resultat->closeCursor();
     ?>
     </tbody>
     </table>
+    <?php echo "<h3>nombre de lignes: ".$nb."</h3>"; ?>
                     </div>
                     
                     
