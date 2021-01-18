@@ -49,7 +49,12 @@
                        <div class="col">
                               <input  class="btn btn-info " type="submit" name="anapath" onclick=window.location.href="recherche_code.php" value="Faire une recherche" />
                           </div><br />
-
+                
+                  <div class="col">
+                              <input  class="btn btn-info " type="submit" name="anapath" onclick=window.location.href="cim.php" value="Probleme transcodage" />
+                          </div><br />
+                             
+                         
                       <div class="row">
                           <div class="col">     
                               <input class="btn btn-info " type="submit" name="retour" onclick=window.location.href="../accueil.php" value="Retour" />
