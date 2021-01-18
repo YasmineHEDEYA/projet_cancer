@@ -1,0 +1,60 @@
+.skyblue {
+    background-image: url('cancer3.gif');
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;  
+}
+
+.beige {
+    height: 45vh;
+    width: 80vh;
+    }
+
+.align-items-center {
+    padding-top: 200px;
+}
+
+.btn-info {
+    width: 200px;
+    background-color:#117A65;
+    border-color: #117A65;
+    border: 2px solid #117A65;
+    border-radius: 12px;
+    font-size: 16px;
+}
+
+.title , .nav-link {
+    color:#B9770E ;
+}
+#recherche {
+    height: 50vh;
+    width: 80vh;
+}
+
+.container {
+    background-color: #F8FCFB  ;
+    text-align: center;
+    border: 2px solid #117A65;
+    border-radius: 12px;
+}
+
+.btn {
+    background-color:#117A65;
+    border-color: #117A65;
+}
+
+#resultat {
+    height: 100vh;
+    width: 140vh;
+}
+
+.colNames {
+           background-color: #138D75;
+}
+#affichage {
+
+    width: 200vh;
+}
+
