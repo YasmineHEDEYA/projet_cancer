@@ -95,7 +95,7 @@ session_start();
                     <br />
                     <?php
 
-try {$bdd = new PDO('mysql:host=localhost;dbname=cancer_final', 'root', '',  array(PDO::MYSQL_ATTR_INIT_COMMAND => "SET NAMES utf8",PDO::ATTR_ERRMODE =>         PDO::ERRMODE_EXCEPTION));
+try {$bdd = new PDO('mysql:host=localhost;dbname=cancer', 'root', '',  array(PDO::MYSQL_ATTR_INIT_COMMAND => "SET NAMES utf8",PDO::ATTR_ERRMODE =>         PDO::ERRMODE_EXCEPTION));
                 
 } catch (Exception $e) {
     die('Erreur : ' . $e->getMessage());
@@ -103,9 +103,12 @@ try {$bdd = new PDO('mysql:host=localhost;dbname=cancer_final', 'root', '',  arr
 
     if($_SESSION['critere']=='age')
         $requete = 'SELECT * FROM `cancer`join tab_patient on cancer.newid=tab_patient.id where (year(now())-year(date_naissance))='.$_SESSION['recherche'].';';
-    else if ($_SESSION['critere']=='ADICAP'||$_SESSION['critere']=='cim10'||$_SESSION['critere']=='libelle')
-        $requete='';
-    else if ($_SESSION['critere']=='annee')
+    else if ($_SESSION['critere']=='cim10')
+        $requete='select * from cancer join transcodage on (cancer.codtopocimo3=transcodage.codtopocimo3 and cancer.codmorphocimo3=transcodage.codmorphocimo3) where ' .$_SESSION['critere'].' like "%'.$_SESSION['recherche'].'%";';
+    else if ($_SESSION['critere']=='libelle')
+    $requete='select * from cancer join transcodage on (cancer.codtopocimo3=transcodage.codtopocimo3 and cancer.codmorphocimo3=transcodage.codmorphocimo3) where libmorphocimo3 like "%'.$_SESSION['recherche'].'%" or libtopocimo3 like "%'.$_SESSION['recherche'].'%";';
+        
+        else if ($_SESSION['critere']=='annee')
     $requete = 'SELECT * FROM `cancer` where year(date)="'.$_SESSION['recherche'].'" ;';
     else
         $requete = 'SELECT * FROM `cancer` where '.$_SESSION['critere'].' like "%'.$_SESSION['recherche'].'%";';

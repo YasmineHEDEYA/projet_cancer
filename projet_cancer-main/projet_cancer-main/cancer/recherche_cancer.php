@@ -26,7 +26,6 @@
                             <option value="groupe_morpho_iacr">Groupe Morpho </option>
                             <option value="groupe_topo_iacr">Groupe Topo</option>
                             <option value="age">Age patient</option>
-                            <option value="ADICAP">Code ADICAP</option>
                             <option value="codtopocimo3">Code CIMO3 Topo</option>
                             <option value="codmorphocimo3">Code CIM03 Morpho</option>
                             <option value="cim10">Code CIM10</option>

@@ -13,7 +13,7 @@ if ($_POST['utilisateur']=='test'&& $_POST['mdp']=='test' && !empty($_POST['h-ca
         
     
     
-    header('Location: accueil.php');
+    header('Location: ../accueil.php');
     exit();
   }
 else {
