@@ -146,6 +146,48 @@ include('../connexion_bd.php');
         </div>" ;
     }
     }
+	  if ($_POST['critere'] == 'cimo10') {
+
+    // ON VERIFIE SI LE CODE EXISTE DANS LA TABLE 
+	  $req =$bdd->prepare('SELECT COUNT(*) AS nbr FROM transcodage WHERE CIM10 LIKE :p_code');
+	  $req->execute(array(':p_code' => $_POST['code']));
+	  $ligne = $req->fetch() ;
+	  
+	  if(!($ligne['nbr'] == 0)){
+
+	    echo "
+			<tr class ='colNames'>
+	            <th scope='col'><b>CIM10</th>
+	            <th scope='col'><b>CODTOPOCIMO3</th>
+	            <th scope='col'><b>GROUPE_TOPO</th>
+	            <th scope='col'><b>CODMORPHOCIMO3</th>
+	            <th scope='col'><b>GROUPE_MORPHO</th>
+	        </tr>
+	     </thead>
+	     <tbody>";
+
+    $req->closeCursor() ;
+    	$req = $bdd->prepare('SELECT CIM10,CODTOPOCIMO3,GROUPE_TOPO,CODMORPHOCIMO3,GROUPE_MORPHO  FROM transcodage WHERE CIM10 LIKE :p_code');
+        $req->execute(array(':p_code' => $_POST['code']));
+
+		  $i=1; 
+		  while ($ligne = $req->fetch())
+		     {  
+		     
+		      for ($k=0;$k=<4;$k++)
+		        {
+		        echo '<td>',$ligne[$k], '</td>';
+		        }
+		      echo "</tr> \n" ;
+		    }
+		    $req->closeCursor() ;
+    }
+    else {
+        echo "<div class='alert alert-danger' role='alert'>
+        Aucun code n'a été trouvé !
+        </div>" ;
+    }
+    }
 
     if ($_POST['critere'] == 'cimo3_morpho') {
 
@@ -183,6 +225,7 @@ include('../connexion_bd.php');
 		      echo "</tr> \n" ;
 		    }
 		    $req->closeCursor() ;
+		
     }
     else {
         echo "<div class='alert alert-danger' role='alert'>
