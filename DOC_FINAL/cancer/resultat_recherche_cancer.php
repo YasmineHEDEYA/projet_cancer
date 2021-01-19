@@ -104,14 +104,14 @@ try {$bdd = new PDO('mysql:host=localhost;dbname=cancer', 'root', '',  array(PDO
     if($_SESSION['critere']=='age')
         $requete = 'SELECT * FROM `cancer`join tab_patient on cancer.newid=tab_patient.id where (year(now())-year(date_naissance))='.$_SESSION['recherche'].';';
     else if ($_SESSION['critere']=='cim10')
-        $requete='select * from cancer join transcodage on (cancer.codtopocimo3=transcodage.codtopocimo3 and cancer.codmorphocimo3=transcodage.codmorphocimo3) where ' .$_SESSION['critere'].' like "%'.$_SESSION['recherche'].'%";';
+        $requete='select * from cancer join transcodage on (cancer.codtopocimo3=transcodage.codtopocimo3 and cancer.codmorphocimo3=transcodage.codmorphocimo3) where ' .$_SESSION['critere'].' like "'.$_SESSION['recherche'].'%";';
     else if ($_SESSION['critere']=='libelle')
     $requete='select * from cancer join transcodage on (cancer.codtopocimo3=transcodage.codtopocimo3 and cancer.codmorphocimo3=transcodage.codmorphocimo3) where libmorphocimo3 like "%'.$_SESSION['recherche'].'%" or libtopocimo3 like "%'.$_SESSION['recherche'].'%";';
         
         else if ($_SESSION['critere']=='annee')
     $requete = 'SELECT * FROM `cancer` where year(date)="'.$_SESSION['recherche'].'" ;';
     else
-        $requete = 'SELECT * FROM `cancer` where '.$_SESSION['critere'].' like "%'.$_SESSION['recherche'].'%";';
+        $requete = 'SELECT * FROM `cancer` where '.$_SESSION['critere'].' like "'.$_SESSION['recherche'].'";';
 
     $resultat = $bdd->query($requete);
     $ligne = $resultat->fetch();
